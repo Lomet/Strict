@@ -1,4 +1,4 @@
-
+![workflow](https://github.com/Lomet/Strict/actions/workflows/dotnet.yml/badge.svg)
 
 # StrictHandler
 
